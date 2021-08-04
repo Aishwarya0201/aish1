@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataProtectionUserConfig SchemaVersion="1">
+  <UserName>takale</UserName>
+  <FriendlyName>takale</FriendlyName>
+  <PCName>DESKTOP-SGFJFJU</PCName>
+  <UserId>492fab4f-39ac-4902-a279-9cddad01c469</UserId>
+  <Library>
+    <LibraryName>*2112ab0a-c86a-4ffe-a368-0de96e47012e</LibraryName>
+    <Folder>C:\Users\takal\Music</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*e25b5812-be88-4bd9-94b0-29233477b6c3</LibraryName>
+    <Folder>C:\Users\takal\Pictures\Saved Pictures</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*491e922f-5643-4af4-a7eb-4e7a138d8174</LibraryName>
+    <Folder>C:\Users\takal\Videos</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*2b20df75-1eda-4039-8097-38798227d5b7</LibraryName>
+    <Folder>C:\Users\takal\Pictures\Camera Roll</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*7b0db17d-9cd2-4a93-9733-46cc89022e7c</LibraryName>
+    <Folder>C:\Users\takal\Documents</Folder>
+    <Folder>C:\Users\takal\OneDrive\Documents</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*a990ae9f-a03b-4e80-94bc-9912d7504104</LibraryName>
+    <Folder>C:\Users\takal\Pictures</Folder>
+  </Library>
+  <UserFolder>C:\Users\takal\Searches</UserFolder>
+  <UserFolder>C:\Users\takal\3D Objects</UserFolder>
+  <UserFolder>C:\Users\takal\Desktop</UserFolder>
+  <UserFolder>C:\Users\takal\OneDrive</UserFolder>
+  <UserFolder>C:\Users\takal\Contacts</UserFolder>
+  <UserFolder>C:\Users\takal\Pictures</UserFolder>
+  <UserFolder>C:\Users\takal\Favorites</UserFolder>
+  <UserFolder>C:\Users\takal\Videos</UserFolder>
+  <UserFolder>C:\Users\takal\Music</UserFolder>
+  <UserFolder>C:\Users\takal\Downloads</UserFolder>
+  <UserFolder>C:\Users\takal\Documents</UserFolder>
+  <UserFolder>C:\Users\takal\Links</UserFolder>
+  <UserFolder>C:\Users\takal\Saved Games</UserFolder>
+  <LocalCatalogPath1>C:\Users\takal\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog1.edb</LocalCatalogPath1>
+  <LocalCatalogPath2>C:\Users\takal\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog2.edb</LocalCatalogPath2>
+  <StagingArea>
+    <StagingAreaPath>C:\Users\takal\AppData\Local\Microsoft\Windows\FileHistory\Data</StagingAreaPath>
+    <StagingAreaMaximumCapacity>594034544</StagingAreaMaximumCapacity>
+    <StagingAreaWarningThreshold>445525908</StagingAreaWarningThreshold>
+  </StagingArea>
+  <AvailabilityPolicies>
+    <TargetAbsenceTime>5</TargetAbsenceTime>
+    <TimeInUnprotectedState>3</TimeInUnprotectedState>
+  </AvailabilityPolicies>
+  <RetentionPolicies>
+    <RetentionPolicyType>DISABLED</RetentionPolicyType>
+    <MinimumRetentionAge>365</MinimumRetentionAge>
+  </RetentionPolicies>
+  <DPFrequency>3600</DPFrequency>
+  <DPStatus>ENABLED</DPStatus>
+  <Target>
+    <TargetName>New Volume</TargetName>
+    <TargetUrl>F:\</TargetUrl>
+    <TargetVolumePath>\\?\Volume{9ef74881-649c-44dc-b9d1-5cfd965e9117}\</TargetVolumePath>
+    <TargetDriveType>FIXED</TargetDriveType>
+    <TargetConfigPath1>takale\DESKTOP-SGFJFJU\Configuration\Config1.xml</TargetConfigPath1>
+    <TargetConfigPath2>takale\DESKTOP-SGFJFJU\Configuration\Config2.xml</TargetConfigPath2>
+    <TargetCatalogPath1>takale\DESKTOP-SGFJFJU\Configuration\Catalog1.edb</TargetCatalogPath1>
+    <TargetCatalogPath2>takale\DESKTOP-SGFJFJU\Configuration\Catalog2.edb</TargetCatalogPath2>
+    <TargetBackupStorePath>takale\DESKTOP-SGFJFJU\Data</TargetBackupStorePath>
+    <TargetWarningThreshold>98</TargetWarningThreshold>
+  </Target>
+</DataProtectionUserConfig>
